@@ -1,2 +1,19 @@
 
 /* Your CSS Code here. */
+
+a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 20px;
+}
+
+#skills{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#projects{
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
